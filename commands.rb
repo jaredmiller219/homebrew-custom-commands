@@ -1,4 +1,4 @@
-class MyScript < Formula
+class Commands < Formula
   desc "Custom commands designed to streamline directory navigation, file listing, and screen clearing, with distinct functionalities based on specific use cases."
   homepage "https://github.com/jaredmiller219/Custom-Terminal-Commands"
   url "https://raw.githubusercontent.com/jaredmiller219/Custom-Terminal-Commands/main/custom_commands.sh", :using => :curl
